@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Rick Wassum -- RickWassum@outlook.com -- @RickWassum
 
 # THANKS
 
